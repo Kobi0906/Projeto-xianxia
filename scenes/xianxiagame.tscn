@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://dvm3konrhkeg1"]
 
-[ext_resource type="Script" path="res://scripts/control.gd" id="1_twf4p"]
+[ext_resource type="Script" uid="uid://csp46b2k8bw0t" path="res://scripts/control.gd" id="1_twf4p"]
 
 [node name="xianxiagame" type="Control" node_paths=PackedStringArray("label", "timer")]
 layout_mode = 3
